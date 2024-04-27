@@ -44,7 +44,7 @@ This project utilizes Natural Language Processing to analyze Airbnb reviews for 
    - You might need to restart the runtime in Google Colab after installing libraries for the first time (`Runtime` > `Restart runtime`).
 
 5. **Run the Notebook**:
-   - Execute the cells sequentially in the notebook to analyze the Airbnb data.
+   - Execute the cells after sequentially in the notebook to analyze the Airbnb data 
 
 ## Usage
 This project is intended for educational purposes and to provide insights to Airbnb hosts about guest preferences in Toronto. By understanding sentiment and geospatial trends, hosts can improve their listings and guest satisfaction.
