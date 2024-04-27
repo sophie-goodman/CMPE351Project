@@ -17,6 +17,7 @@ This project utilizes Natural Language Processing to analyze Airbnb reviews for 
    - Log into your Google Drive account.
    - Create a new folder named `CMPE372Project`.
    - Upload the downloaded `listings.csv` and `reviews.csv` files to this folder.
+   - Upload results_data_RQ2.csv into the content folder 
 
 ## Running the Code
 1. **Open Google Colab**:
